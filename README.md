@@ -4,11 +4,7 @@
 
 <div align="center">
 
-<div align="left">
-  <a href="https://discord.com/amaz974" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="linkedin.com/company/hackcessible-à-tous" target="_blank">
+
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://tryhackme.com/p/amaz974" target="_blank">
@@ -19,6 +15,11 @@
 </div>
 
 ###
+<div align="left">
+  <a href="https://discord.com/amaz974" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="linkedin.com/company/hackcessible-à-tous" target="_blank">
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExangyd3A1eTA3dGpza3BkdDhlMzN3MnRwZWFvMmRzOWszZHp4dDZoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V56ORD3h86bLPqx6Gh/giphy.gif"  />
 
