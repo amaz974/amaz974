@@ -2,7 +2,7 @@
 <!-- logo -->
  
 <p align="center">
-<img src="images/Logo_HT.png" alt="Logo" width="500">
+<img src="images/Logo.png" alt="Logo" width="500">
 </p>
 
 <!-- Animation -->
