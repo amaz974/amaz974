@@ -2,14 +2,14 @@
 <!-- logo -->
  
 <p align="center">
-<img src="images/Logo.png" alt="Logo" width="500">
+<img src="images/logo.jpeg" alt="Logo" width="500">
 </p>
 
 <!-- Animation -->
 <!-- (https://readme-typing-svg.demolab.com/demo/) -->
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=&color=73BBF7&center=true&vCenter=true&multiline=true&random=false&width=1100&height=100&lines=Salut+!++%F0%9F%91%8B;Bienvenue+sur+notre+page+%F0%9F%A4%97;Visite+notre+gitbook+%F0%9F%93%9A)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1900&pause=&color=73BBF7&center=true&vCenter=true&multiline=true&random=false&width=1100&height=100&lines=Salut+!++%F0%9F%91%8B;Bienvenue+sur+ma+page+%F0%9F%A4%97;Visite+notre+gitbook+%F0%9F%93%9A)
 
 <!-- Desciption - TITRE -->
 
@@ -84,17 +84,15 @@ Mes certifications </h3>
 
 
 
+<!-- Utilisation de HTML pour un meilleur contrôle du positionnement -->
 
+<a href="https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook">
+  <img src="/images/jrpentester.png" alt="Cert" width="500px" height="300px" style="display: inline-block; margin-right: 10px;" />
+</a>
 
-
-
-<p align="center">
- <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook"><img src="/images/jrpentester.png" alt="Cert" width="130px" height="130px" /></a>
- <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" title="💻 Gitbook"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cert" width="130px" height="130px" /></a>
-
-<p align="center">
- <a href="https://example.com/iame](https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook"><img src="/images/socn1.png" alt="Cert" width="130px" height="130px" /></a>
- <a href="https://linkedin.com/in/linkedin.com/company/hackcessible-à-tous" title="💻 Gitbook"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Cert" width="130px" height="130px" /></a>
+<a href="https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook">
+  <img src="/images/socn1.png" alt="Cert" width="500px" height="300px" style="display: inline-block;" />
+</a>
 
 <!-- Stats - TITRE -->
 
