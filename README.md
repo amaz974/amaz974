@@ -86,13 +86,19 @@ Mes certifications </h3>
 
 <!-- Utilisation de HTML pour un meilleur contrôle du positionnement -->
 
-<a href="https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook">
-  <img src="/images/jrpentester.png" alt="Cert" width="500px" height="300px" style="display: inline-block; margin-right: 10px;" />
-</a>
+<p align="center">
+  <a href="https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook" style="display: inline-block; margin-right: 20px;">
+    <img src="/images/jrpentester.png" alt="Cert" width="400px" height="200px" style="border-radius: 80px;"/>
+  </a>
 
-<a href="https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook">
-  <img src="/images/socn1.png" alt="Cert" width="500px" height="300px" style="display: inline-block;" />
-</a>
+  <a href="https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook" style="display: inline-block; margin-left: 20px;">
+    <img src="/images/socn1.png" alt="Cert" width="400px" height="200px" style="border-radius: 80px;"/>
+  </a>
+  </p>
+
+
+
+
 
 <!-- Stats - TITRE -->
 
