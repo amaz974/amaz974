@@ -117,18 +117,27 @@ Mes certifications </h3>
    </a>
 Statistiques </h3>
 
+<!-- SNAKE -->
+
 <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
-###
+<!-- 3D -->
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/amaz974/amaz974/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="800">
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amaz974&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amaz974&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 
 
 <!-- Nombres de vue  - TITRE -->
