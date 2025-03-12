@@ -63,6 +63,8 @@ Mes projets </h3>
 - LinkedIn : Suivez ma page [LinkedIn](https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous) pour des mises à jour régulières sur les dernières actualités en cybersécurité, les tendances émergentes et des analyses approfondies sur les défis actuels du secteur.
 
 - GitBook : Découvrez mon  [GitBook](https://hackcessible.gitbook.io/hackcessible-a-tous). qui est une mine d'informations sur les outils, techniques, tactiques et procédures liés à l'attaque, au DFIR (Digital Forensics and Incident Response), à la red team, à la blue team, et aux bonnes pratiques en cybersécurité. C'est un recueil complet pour approfondir vos connaissances et compétences dans le domaine.
+  
+- Purpelab : Découvre mon organisation [ForgeLab](https://github.com/Purpelab/) fondée avec @CupOfCoffeeX, notre but est de créer, tester, ameliorer des outils et surtout nos compétences dans le domaine. Vous y trouverez un laboratoire de Purple Team vec nos outils et règles
 <!-- Mes certifications  - TITRE -->
 
 <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
@@ -70,42 +72,9 @@ Mes projets </h3>
 </a>
  
 
-<h3 align="center">
- <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
-    </a>
-
-Mes certifications </h3>
-
-<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-</a>
-
-<!-- certifications  - TEXT-->
 
 
 
-<!-- Utilisation de HTML pour un meilleur contrôle du positionnement -->
-
-<p align="center">
-  <a href="https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook" style="display: inline-block; margin-right: 20px;">
-    <img src="/images/jrpentester.png" alt="Cert" width="400px" height="200px" style="border-radius: 80px;"/>
-  </a>
-
-  <a href="https://hackcessible.gitbook.io/hackcessible-a-tous/" title="💻 Gitbook" style="display: inline-block; margin-left: 20px;">
-    <img src="/images/socn1.png" alt="Cert" width="400px" height="200px" style="border-radius: 80px;"/>
-  </a>
-  </p>
-
-
-
-
-
-<!-- Stats - TITRE -->
-
-<a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
- 
 
 <h3 align="center">
  <a href="https://github.com/Hackcessible-a-Tous/Hackcessible-a-Tous">
